@@ -1,0 +1,115 @@
+body {
+	background-color: #FFC0CB;
+	font-family: 'Oxygen' ,sans-serif;
+}
+#header-nav {
+	background-color: #C71585;
+	border: 2px;
+	border-radius: 2px;
+}
+#navbar-brand img {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+}
+
+#navbar-brand h1 {
+	font-family: 'Lora', serif;
+	color:  white;
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+	margin: 20px;
+}
+.navbar-brand a: hover, .navbar-brand a: focus {
+	text-decoration: none;
+
+}
+#collapsable-nav a {
+	font-weight: bold;
+	color: white;
+	font-weight: bold;
+	font-style: Oxygen;
+	font-size: 1.2em;
+}
+#collapsable-nav a:hover {
+	background-color: #D8BFD8;
+	font-style: Oxygen;
+	opacity: .8em;
+	color: #800080;
+}
+
+#navbar-details #roshni {
+	text-align: center;
+	font-family: 'Lora', serif;
+	color:  #cc3399;
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin: 10px;
+	line-height: 1.0;
+	margin: 20px;
+	padding: 20px;
+}
+#navbar-details img {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	margin: 20px;
+}
+#navbar-details p{
+	text-align: center;
+	font-family: 'Lora', serif;
+	color:  #ff0066;
+	font-size: 2em;
+	line-height: 1.0;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	font-weight: bold;
+	margin: 20px;
+}
+#sandeep section {
+	background-color: white;
+	opacity: .6em;
+	width: 150px;
+	margin: 10px;
+	border-radius: 20px;
+	box-shadow: 0 0 10px #800055;
+}
+#sandeep h2 {
+	font-family: 'Lora', serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	color:  #FF6699;
+	text-shadow: 1px 1px 1px #222;
+	margin: 10px;
+}
+#sandeep img {
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+
+}
+#ghosh {
+	background-color: #FF8095;
+	width: 100%;
+	border-radius: 20px;
+	margin: 10px;
+	box-shadow: 0 0 20px black;
+}
+#ghosh p {
+	text-align: center;
+	font-size: 1.2em;
+	font-family: 'Oxygen';
+	color: white;
+	padding-top: 10px;
+
+}
